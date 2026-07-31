@@ -17,11 +17,11 @@
     "native_country"
   ],
   "display_names": {
-    "logistic_regression": "Logistic Regression",
-    "decision_tree": "Decision Tree",
-    "knn": "kNN",
-    "naive_bayes": "Naive Bayes",
-    "random_forest": "Random Forest (Ensemble)",
-    "svm": "SVM"
+    "Logistic Regression": "logistic_regression",
+    "Decision Tree": "decision_tree",
+    "kNN": "knn",
+    "Naive Bayes": "naive_bayes",
+    "Random Forest (Ensemble)": "random_forest",
+    "SVM": "svm"
   }
 }
