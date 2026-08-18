@@ -53,10 +53,7 @@ stratification on the target. The 20% hold-out split is saved as
 
 ## c. GitHub Repository Link
 
-> **Repo:** `https://github.com/<your-username>/adult-income-classification`
->
-> _(Replace `<your-username>` with your GitHub handle after pushing — see the
-> "How to run / deploy" section below.)_
+> **Repo:** <https://github.com/Stuti-Jain003/adult-income-classification>
 
 ### Repository structure
 
@@ -137,7 +134,7 @@ The deployed app (`app.py`) implements every required feature:
 
 ```bash
 # 1. Clone and enter the repo
-git clone https://github.com/<your-username>/adult-income-classification.git
+git clone https://github.com/Stuti-Jain003/adult-income-classification.git
 cd adult-income-classification
 
 # 2. (Optional) create a virtual environment
