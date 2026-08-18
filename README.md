@@ -158,4 +158,4 @@ Then open the CSV uploader, select `test_data.csv`, and choose a model.
 
 ## Live Streamlit App
 
-> **Live app:** _(add your Streamlit Community Cloud link here after deploying)_
+> **Live app:** <https://adult-income-classification-efph8ut93udemc33y3aul5.streamlit.app>
