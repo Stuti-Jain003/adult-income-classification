@@ -156,22 +156,6 @@ Then open the CSV uploader, select `test_data.csv`, and choose a model.
 
 ---
 
-## How to Deploy on Streamlit Community Cloud
+## Live Streamlit App
 
-1. Push this repository to GitHub.
-2. Go to <https://streamlit.io/cloud> and sign in with GitHub.
-3. Click **New app**, select this repository, branch `main`, main file `app.py`.
-4. Click **Deploy**. The pinned `requirements.txt` + `runtime.txt` install automatically.
-5. Once live, upload `test_data.csv` in the app to see results.
-
-> **Live app:** `https://<your-app-name>.streamlit.app`
-
----
-
-## Reproducibility
-
-- Fixed `random_state=42` throughout (split + models) → identical metrics on every run.
-- Preprocessing lives inside each saved `Pipeline`, so the app applies exactly the
-  same transformations that were used during training.
-- Dependency versions are pinned in `requirements.txt` and Python is pinned via
-  `runtime.txt` to guarantee the `*.joblib` artifacts load correctly on the cloud.
+> **Live app:** _(add your Streamlit Community Cloud link here after deploying)_
